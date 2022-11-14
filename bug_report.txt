@@ -1,1 +1,7 @@
-
+ID 1
+Title: Status code 404 in main page
+STR: to www.github.com
+Expected_results: Mane page is opened
+Actual_result: Status code 404
+Environment: macBook Monterey v12.6, Chrome v1.23.1837
+Attachment: bug_1
